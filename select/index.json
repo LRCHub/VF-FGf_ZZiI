@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Bad Habit (Official Video)",
+  "base_artist": "Steve Lacy",
+  "createdAt": "2026-01-13T16:45:27.253611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/01_Bad_Habit_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/02_Bad_Habit_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "SONOIO",
+      "has_synced": true,
+      "path": "select/03_Bad_Habit_SONOIO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "bad habit",
+      "artist": "XYLØ",
+      "has_synced": true,
+      "path": "select/04_bad_habit_XYLØ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "The Dresden Dolls",
+      "has_synced": false,
+      "path": "select/05_Bad_Habit_The_Dresden_Dolls.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My One Bad Habit",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/06_My_One_Bad_Habit_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Bad Habit",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/07_One_Bad_Habit_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Darling Parade",
+      "has_synced": true,
+      "path": "select/08_Bad_Habit_Darling_Parade.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Foals",
+      "has_synced": false,
+      "path": "select/09_Bad_Habit_Foals.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Foals",
+      "has_synced": true,
+      "path": "select/10_Bad_Habit_Foals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Leslie Clio feat. Drangsal",
+      "has_synced": true,
+      "path": "select/11_Bad_Habit_Leslie_Clio_feat._Drangsal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Feline",
+      "has_synced": false,
+      "path": "select/12_Bad_Habit_Feline.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/13_Bad_Habit_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Joss Stone",
+      "has_synced": true,
+      "path": "select/14_Bad_Habit_Joss_Stone.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Habit (feat. Drangsal)",
+      "artist": "Leslie Clio",
+      "has_synced": true,
+      "path": "select/15_Bad_Habit_(feat._Drangsal)_Leslie_Clio.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Habit_Steve_Lacy.txt"
+    }
+  ]
+}
